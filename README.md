@@ -1,9 +1,7 @@
-MongoDB
-Here’s an updated **MongoDB + Mongoose Cheatsheet** including **why it is used**, for better understanding during learning or interviews:
 
 ---
 
-# 🧠 MongoDB & Mongoose Cheatsheet (With Why It’s Used)
+# 🧠 MongoDB (With Why It’s Used)
 
 ---
 
