@@ -7,7 +7,7 @@
 
 ## 🟢 **What is MongoDB?**
 
-MongoDB is a NoSQL document database that stores data in flexible, JSON-like documents called BSON.
+MongoDB is a NoSQL document database that stores data in flexible, JSON-like documents called BSON(Binary JSON).
 Instead of tables (like in SQL), it uses collections and documents.
 
 ### ✅ **Why use MongoDB?**
