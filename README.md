@@ -149,3 +149,6 @@ db.users.distinct("city")                // Unique values of field
 ```
 
 ---
+## 📚 Documentation
+
+- [Mongoose Guide](auth.md)
