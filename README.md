@@ -149,5 +149,3 @@ db.users.distinct("city")                // Unique values of field
 ```
 
 ---
-
-If you want, I can also provide this as a **PDF**, or proceed now with the **Mongoose Cheatsheet**. Let me know!
